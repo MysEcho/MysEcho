@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antareep Singha</h1>
-<h3 align="center">A passionate Roboticist and a Reasearch Assistant at RRC, IIIT Hyderabad.</h3>
+<h1 align="center">The name's Singha, Antareep Singha</h1>
+<h3 align="center">Roboticist and RA at RRC, IIIT Hyderabad. (Part Time MI6 Agent)</h3>
 <img align="right" alt="Robotics" width="400" src="https://64.media.tumblr.com/c8b76decdf64a169184660d40481f280/tumblr_o6kgx8WtZu1ults25o3_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysecho&label=Profile%20views&color=0e75b6&style=flat" alt="mysecho" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Autonomous Wheelchair: Multi-modal tracking and local navigation](https://github.com/Smart-Wheelchair-RRC)
 
-- 🌱 I’m currently learning **PyTorch, OpenCV**
+- 🌱 I’m currently learning **PyTorch, Reinforcement Learning, Model Predictive Control**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MysEcho](https://github.com/MysEcho)
 
@@ -16,11 +16,11 @@
 
 - 💬 Ask me about **FPGAs, Verilog, UVM**
 
-- 📫 How to reach me **https://www.linkedin.com/in/antareep-singha-10a0b5165/**
+- 📫 How to reach me **Don't**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zPnzme7QRxGd-SrBoKGdeFdjbwrRb6uv/view](https://drive.google.com/file/d/1zPnzme7QRxGd-SrBoKGdeFdjbwrRb6uv/view)
 
-- ⚡ Random Information **Ping me if you wanna go hiking :)**
+- ⚡ Random Information **Ping me if you want a VA for Anya-Chan. Waku Waku!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
