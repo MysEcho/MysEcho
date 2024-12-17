@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [on my Github.](https://github.com/MysEcho)
 
-- 📝 I write about my travels on [my blog.](https://www.blogger.com/blog/posts/5043971805986117745?bpli=1&pli=1)
+- 📝 I write about my travels on [my blog.](https://medium.com/@antareepsinha12/a-perfect-couple-of-days-in-singapore-ed9cfef81b24)
 
 - 💬 Ask me about **Robotics, and Machine Learning.**
 
