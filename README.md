@@ -6,23 +6,19 @@
 
 - 🔭 I’m currently working on [Social Navigation using generative modelling for an Autonomous Wheelchair.](https://github.com/Smart-Wheelchair-RRC)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust.**
 
-- 👨‍💻 All of my projects are available [on my Github](https://github.com/MysEcho)
+- 👨‍💻 All of my projects are available [on my Github.](https://github.com/MysEcho)
 
 - 📝 I write about my travels on [my blog.](https://www.blogger.com/blog/posts/5043971805986117745?bpli=1&pli=1)
 
-- 💬 Ask me about **Robotics, and Machine Learning**
+- 💬 Ask me about **Robotics, and Machine Learning.**
 
 - 📫 How to reach me **: Just text me!**
 
 - 📄 Know about my experiences [on my website](https://mysecho.github.io/mys-monolith.github.io//)
 
-- ⚡ Random Information **I love hiking and Iced Lattes. Hit me up if you need company for either.**
+- ⚡ Random Information about me:  **I love hiking and Iced Lattes. Hit me up if you need company for either.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/antareepsingha](https://www.linkedin.com/in/antareep-singha-10a0b5165/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antareepsingha" height="30" width="40" /></a>
-</p>
 
 
