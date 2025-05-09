@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysecho&label=Profile%20views&color=0e75b6&style=flat" alt="mysecho" /> </p>
 
-- 🔭 I’m currently working on [Social Navigation using generative modelling for an Autonomous Wheelchair.](https://github.com/Smart-Wheelchair-RRC)
+- 🔭 I’m currently working on **Costmap-Diffusion: Diffusing Latent costmap priors for Social Navigation.**
 
-- 🌱 I’m currently learning **Rust.**
+- 🌱 My current topics of interest are **Machine Vision, Learning Representations, and Optimization.**
 
 - 👨‍💻 All of my projects are available [on my Github.](https://github.com/MysEcho)
 
