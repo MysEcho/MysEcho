@@ -1,4 +1,4 @@
-<h1 align="center">“It’s not whether you get knocked down, it’s whether you get back up.” –Vince Lombardi</h1>
+<h1 align="center">“Power is given only to those who dare to lower themselves and pick it up. Only one thing matters, one thing; to be able to dare!” –Fyodor Dostoevsky</h1>
 <h3 align="center">Roboticist Research Assistant at RRC, IIIT Hyderabad</h3>
 <img align="right" alt="Robotics" width="400" src="https://64.media.tumblr.com/c8b76decdf64a169184660d40481f280/tumblr_o6kgx8WtZu1ults25o3_1280.gif">
 
