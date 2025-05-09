@@ -1,5 +1,5 @@
 <h1 align="center">“Power is given only to those who dare to lower themselves and pick it up. Only one thing matters, one thing; to be able to dare!” –Fyodor Dostoevsky</h1>
-<h3 align="center">Roboticist Research Assistant at RRC, IIIT Hyderabad</h3>
+<h3 align="center">Master's Student in Robotics at Nanyang Technological University, Singapore</h3>
 <img align="right" alt="Robotics" width="400" src="https://64.media.tumblr.com/c8b76decdf64a169184660d40481f280/tumblr_o6kgx8WtZu1ults25o3_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysecho&label=Profile%20views&color=0e75b6&style=flat" alt="mysecho" /> </p>
